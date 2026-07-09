@@ -1,5 +1,5 @@
 ## 💫 About Me
-Full Stack Developer with over 7 years of experience in corporate IT companies.
+Senior Software Engineer with over 9 years of experience in corporate IT companies.
 
 
 ## 🌐 Socials
