@@ -1,20 +1,64 @@
-## 💫 About Me
-Senior Software Engineer with over 9 years of experience in corporate IT companies.
+<h1 align="center">Hi, I'm Metehan 👋</h1>
 
+<p align="center">
+  <b>Senior Software Engineer @ Vodafone</b> · Polyglot Backend Developer (C# & Java) · Microsoft Certified
+</p>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/metehanyurtoglu) 
-
-## 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=metehanyurtoglu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=metehanyurtoglu&theme=tokyonight&hide_border=false) 
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=metehanyurtoglu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/metehanyurtoglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://learn.microsoft.com/credentials/certifications/azure-developer/"><img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-204"></a>
+  <img src="https://img.shields.io/badge/📍-Ankara%2C%20T%C3%BCrkiye%20·%20Remote-555?style=for-the-badge" alt="Location">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=metehanyurtoglu&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I build backend systems that run in production — **9+ years** across fintech/payments and telecom.
+I started with **C#/.NET** and today ship **Java 21 + Spring Boot** microservices at Vodafone.
+For me, languages are tools: what I care about is distributed systems, clean architecture and keeping things reliable once they are live.
+
+### 🔭 What I'm Working On
+
+- ⚙️ **Microservices** in Java 21 & Spring Boot — hexagonal and layered architectures, running on **OpenShift**
+- 📨 **Event-driven systems** with **Kafka** and **Oracle**
+- 📈 **Internal tooling** — built a real-time OpenShift monitoring dashboard with a YAML-based rule engine, used daily by my team
+- 🤖 **AI-assisted development** — GitHub Copilot, Claude Code, and agentic coding workflows
+- 🎯 **Next up:** GitHub Copilot certification (GH-300)
+
+### 🛠️ Tech Stack
+
+**Backend**
+<br>
+![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Data & Messaging**
+<br>
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+<br>
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+
+**AI-Assisted Development**
+<br>
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+
+### 🏆 Certifications
+
+| Certification | Status |
+| --- | --- |
+| Microsoft Certified: Azure Developer Associate (AZ-204) | ✅ 2026 |
+| GitHub Copilot (GH-300) | ⏳ In progress |
