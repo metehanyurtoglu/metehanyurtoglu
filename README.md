@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/metehanyurtoglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://learn.microsoft.com/credentials/certifications/azure-developer/"><img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-204"></a>
-  <img src="https://img.shields.io/badge/📍-Ankara%2C%20T%C3%BCrkiye-555?style=for-the-badge" alt="Location">
 </p>
 
 ---
