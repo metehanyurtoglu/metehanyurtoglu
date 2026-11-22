@@ -14,8 +14,8 @@
 
 ### 💫 About Me
 
-Backend engineer with **9+ years** of experience, mostly on **fintech and payment platforms**.
-My foundation is the **.NET** ecosystem; today I build **Java / Spring Boot** microservices.
+**C# / .NET** backend engineer with **9+ years** of experience, mostly on **fintech and payment platforms**.
+.NET is my home ground; I also work hands-on with Java and Spring Boot in my current role.
 
 I've worked across the whole lifecycle — requirements analysis, system design, database design, testing and DevOps — so I think about a feature from the business requirement all the way to production.
 
@@ -24,29 +24,21 @@ AI-assisted and agentic development is part of my daily workflow — a productiv
 
 ### 🔭 What I'm Working On
 
-- 💳 **Fintech middleware at Vodafone** — building and maintaining **20+ Java Spring Boot microservices** that orchestrate payment and financial transaction flows between customer-facing apps and core banking services
+- 💳 **Fintech middleware at Vodafone** — building and maintaining 20+ microservices that orchestrate payment and financial transaction flows between customer-facing apps and core banking services
 - 🤖 **Internal AI agentic coding assistant** — contributing to the initiative
 - 📈 **Internal tooling** — built a real-time **OpenShift monitoring dashboard** with a YAML-based rule engine, actively used by my team
 - 🎯 **Next up:** GitHub Copilot certification (GH-300)
 
-### 🧭 Career Path
-
-| Company | Role | Domain |
-| --- | --- | --- |
-| **Vodafone** | Senior Software Engineer · 2025 – now | Fintech middleware, payments |
-| **Papara** | Senior Software Engineer · 2024 – 2025 | Insurance & payments, private pension (BES) integration |
-| **ParamTech** | Senior Software Developer · 2024 | Virtual POS payment platform |
-| **İnnova** | Consultant / Senior Specialist · 2017 – 2024 | Multi-bank lending gateways, Ministry of Health HIS, Türk Telekom fleet tracking |
-| **AKGÜN R&D** | Software Developer · 2017 | Hospital information system |
+> 💼 Full career history on [LinkedIn](https://www.linkedin.com/in/metehanyurtoglu)
 
 ### 🛠️ Tech Stack
 
 **Backend**
 <br>
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Data & Messaging**
 <br>
