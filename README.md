@@ -1,30 +1,43 @@
 <h1 align="center">Hi, I'm Metehan 👋</h1>
 
 <p align="center">
-  <b>Senior Software Engineer @ Vodafone</b> · Polyglot Backend Developer (C# & Java) · Microsoft Certified
+  <b>Senior Software Engineer @ Vodafone</b> · C# & Java · Microsoft Certified · Polyglot Developer
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/metehanyurtoglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/metehanyurtoglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-developer/"><img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-204"></a>
-  <img src="https://img.shields.io/badge/📍-Ankara%2C%20T%C3%BCrkiye%20·%20Remote-555?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/📍-Ankara%2C%20T%C3%BCrkiye-555?style=for-the-badge" alt="Location">
 </p>
 
 ---
 
 ### 💫 About Me
 
-I build backend systems that run in production — **9+ years** across fintech/payments and telecom.
-I started with **C#/.NET** and today ship **Java 21 + Spring Boot** microservices at Vodafone.
-For me, languages are tools: what I care about is distributed systems, clean architecture and keeping things reliable once they are live.
+Backend engineer with **9+ years** of experience, mostly on **fintech and payment platforms**.
+My foundation is the **.NET** ecosystem; today I build **Java / Spring Boot** microservices.
+
+I've worked across the whole lifecycle — requirements analysis, system design, database design, testing and DevOps — so I think about a feature from the business requirement all the way to production.
+
+I see languages and frameworks as tools, not identities. What stays constant is the engineering underneath: **reliable distributed systems, clean and well-tested code, and sound architectural decisions.**
+AI-assisted and agentic development is part of my daily workflow — a productivity multiplier that works best on top of strong fundamentals.
 
 ### 🔭 What I'm Working On
 
-- ⚙️ **Microservices** in Java 21 & Spring Boot — hexagonal and layered architectures, running on **OpenShift**
-- 📨 **Event-driven systems** with **Kafka** and **Oracle**
-- 📈 **Internal tooling** — built a real-time OpenShift monitoring dashboard with a YAML-based rule engine, used daily by my team
-- 🤖 **AI-assisted development** — GitHub Copilot, Claude Code, and agentic coding workflows
+- 💳 **Fintech middleware at Vodafone** — building and maintaining **20+ Java Spring Boot microservices** that orchestrate payment and financial transaction flows between customer-facing apps and core banking services
+- 🤖 **Internal AI agentic coding assistant** — contributing to the initiative
+- 📈 **Internal tooling** — built a real-time **OpenShift monitoring dashboard** with a YAML-based rule engine, actively used by my team
 - 🎯 **Next up:** GitHub Copilot certification (GH-300)
+
+### 🧭 Career Path
+
+| Company | Role | Domain |
+| --- | --- | --- |
+| **Vodafone** | Senior Software Engineer · 2025 – now | Fintech middleware, payments |
+| **Papara** | Senior Software Engineer · 2024 – 2025 | Insurance & payments, private pension (BES) integration |
+| **ParamTech** | Senior Software Developer · 2024 | Virtual POS payment platform |
+| **İnnova** | Consultant / Senior Specialist · 2017 – 2024 | Multi-bank lending gateways, Ministry of Health HIS, Türk Telekom fleet tracking |
+| **AKGÜN R&D** | Software Developer · 2017 | Hospital information system |
 
 ### 🛠️ Tech Stack
 
@@ -62,3 +75,7 @@ For me, languages are tools: what I care about is distributed systems, clean arc
 | --- | --- |
 | Microsoft Certified: Azure Developer Associate (AZ-204) | ✅ 2026 |
 | GitHub Copilot (GH-300) | ⏳ In progress |
+
+### 🎓 Education
+
+**Kırıkkale University** — B.Sc. Computer Engineering (2012 – 2016)
