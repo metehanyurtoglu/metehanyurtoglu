@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/metehanyurtoglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://learn.microsoft.com/credentials/certifications/azure-developer/"><img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-204"></a>
-  <img src="https://img.shields.io/badge/📍-Ankara%2C%20T%C3%BCrkiye-555?style=for-the-badge" alt="Location">
 </p>
 
 ---
@@ -40,6 +38,17 @@ AI-assisted and agentic development is part of my daily workflow — a productiv
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
+**Architecture & Practices**
+<br>
+![Microservices](https://img.shields.io/badge/Microservices-2F3640?style=flat-square)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-2F3640?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2F3640?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-2F3640?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-2F3640?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2F3640?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2F3640?style=flat-square)
+
 **Data & Messaging**
 <br>
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -48,6 +57,7 @@ AI-assisted and agentic development is part of my daily workflow — a productiv
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 **Cloud & DevOps**
 <br>
@@ -55,18 +65,12 @@ AI-assisted and agentic development is part of my daily workflow — a productiv
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **AI-Assisted Development**
 <br>
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-
-### 🏆 Certifications
-
-| Certification | Status |
-| --- | --- |
-| Microsoft Certified: Azure Developer Associate (AZ-204) | ✅ 2026 |
-| GitHub Copilot (GH-300) | ⏳ In progress |
 
 ### 🎓 Education
 
